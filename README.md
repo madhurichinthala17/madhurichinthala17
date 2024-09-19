@@ -5,8 +5,8 @@
 ### - 👩🏻‍💻 Programming and Markup Languages
      CSS, HTML,Java ,JavaScript, Node.js, Python ,SQL , TypeScript
 
-### - 🧰 Frameworks and Libraries
-     Express.js , React , SpringBoot , Selenium , Cucumber BDD 
+### - 🧰 Frameworks, Tools and Libraries
+     Express.js , React , SpringBoot , Selenium , Cucumber BDD , Playwright
 
 ### - 🗄️ Databases and Cloud Hosting
      MongoDB , MySQL , Firebase
